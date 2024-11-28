@@ -8,8 +8,7 @@
 **English** · [简体中文](./README_CN.md)
 
 > [!TIP]
-> Click to try: https://check.crond.dev
-
+> Click to try: https://api-check-tau.vercel.app/
 ## Pure Front-End API Testing Tool
 
 - ✅ **Supports Liveness Testing for Various OpenAI API Proxies**
